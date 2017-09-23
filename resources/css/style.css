@@ -1,0 +1,7 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight:bold;
+  color: white;
+  background-image: image("the-flatiron-building.png");
+}
