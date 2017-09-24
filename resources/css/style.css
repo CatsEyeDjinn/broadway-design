@@ -11,7 +11,7 @@ h1 {
 }
 
 #banner {
-  background-image: url("./resources/css/the-flatiron-building.png");
+  background-image: url("../css/the-flatiron-building.jpg");
 }
 
 #list {
@@ -30,7 +30,7 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   font-family: Helvetica, sans-serif;
-  background-color: green;
+  background-image: url("../css/the-flatiron-building.jpg");
 }
 
 h4 {
